@@ -1,0 +1,47 @@
+body {
+    background-color: #ffffff;
+}
+.formphp {
+	border-radius: 10px;
+    border-width: 30px;
+    background-color: #ffff00;
+    padding: 5px 20px 5px 20px;
+}
+h2 {
+	text-align: center
+}
+label {
+	margin-bottom: 10px;
+}
+.submit {
+	text-align: center;
+}
+.error{
+    border: 2px solid red;
+}
+TABLE {
+    margin-left: auto;
+    margin-right: auto;
+    background: #ffff00; /* Цвет фона таблицы */
+    border: 5px solid #000000; /* Рамка вокруг таблицы */
+   }
+   TD, TH {
+    padding: 5px; /* Поля вокруг текста */
+    border: 1px solid #fff; /* Рамка вокруг ячеек */
+   }
+.mas {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+.del {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    background-color: #ffff00;
+    width: 300px;
+    border-radius: 10px;
+    border-width: 30px;
+    text-align: center;
+}
